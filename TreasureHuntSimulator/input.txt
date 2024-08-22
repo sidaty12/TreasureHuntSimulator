@@ -1,0 +1,13 @@
+﻿# Dimensions de la carte
+C - 5 - 5
+
+# Montagnes sur la carte
+M - 2 - 1
+
+# Trésors sur la carte
+T - 2 - 4 - 2
+T - 1 - 3 - 4
+
+# Aventuriers et leurs mouvements
+A - Indiana - 2 - 2 - S - AADADA
+A - Lara - 1 - 1 - E - AADAGA
